@@ -41,7 +41,7 @@ services:
     # Pull the Image from Repository.
     # replace username/repo:tag with your name and image details
     #image: username/repo:tag 
-    image: kanishkakoli13/web_app:1.0
+    image: abhishekbirajdar210703/agb217:1
     # Command used to deploy the Service
     deploy:
       # Run 5 instances of that image as a service called web
